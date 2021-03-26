@@ -1,10 +1,10 @@
 # NAME: XiaoMi
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 14:54:31.266301
-# DOMAIN-SUFFIX: 111
+# UPDATED: 2021-03-30 16:40:24.190733
+# DOMAIN-SUFFIX: 110
 # IP-CIDR: 2
-# TOTAL: 113
+# TOTAL: 112
 payload:
   - DOMAIN-SUFFIX,408399.com
   - DOMAIN-SUFFIX,408399.net
@@ -103,7 +103,6 @@ payload:
   - DOMAIN-SUFFIX,xiaomidns.com
   - DOMAIN-SUFFIX,xiaomidns.com.cn
   - DOMAIN-SUFFIX,xiaomidns.net
-  - DOMAIN-SUFFIX,xiaomiflash.com
   - DOMAIN-SUFFIX,xiaomiinc.cn
   - DOMAIN-SUFFIX,xiaomiinc.com
   - DOMAIN-SUFFIX,xiaomiinc.com.cn

@@ -1,7 +1,7 @@
 # NAME: Dropbox
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 14:54:25.668763
+# UPDATED: 2021-03-30 16:40:18.935228
 # HOST-SUFFIX: 17
 # TOTAL: 17
 HOST-SUFFIX,db.tt,Dropbox

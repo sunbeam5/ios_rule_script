@@ -8,19 +8,19 @@
 
 Global分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-03-26 14:55:20.005816。
+最后检查时间：2021-03-30 16:41:03.604465。
 
 ## 规则统计
 
-总计规则：29184 条。
+总计规则：29186 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 28918 |
-| USER-AGENT | 49 |
 | DOMAIN | 43 |
+| DOMAIN-SUFFIX | 28920 |
+| USER-AGENT | 49 |
 | DOMAIN-KEYWORD | 42 |
 | IP-CIDR | 127 |
 | IP-CIDR6 | 3 |
@@ -53,7 +53,7 @@ Global.list请使用RULE-SET。
 
 Global_Domain.list请使用DOMAIN-SET。
 
-## 重复统计
+## 子规则
 
 当前分流规则，已包含以下子规则：
 
@@ -61,9 +61,6 @@ Global_Domain.list请使用DOMAIN-SET。
 
 除非特殊需求，否则不建议重复引用。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

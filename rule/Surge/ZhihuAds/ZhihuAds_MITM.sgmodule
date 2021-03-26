@@ -1,7 +1,7 @@
 #!name=ZhihuAds MITM
-#!desc=最后更新时间 2021-03-26 14:54:24
+#!desc=最后更新时间 2021-03-30 16:40:18
 #!author=blackmatrix7
-#!repo=
+#!repo=https://github.com/blackmatrix7/ios_rule_script
 #!mitm=2
 
 [MITM]

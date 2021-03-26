@@ -8,7 +8,7 @@
 
 含有Steam、Blizzard、Discord、Rockstar等分流规则
 
-最后检查时间：2021-03-26 14:55:19.824219。
+最后检查时间：2021-03-30 16:41:03.465425。
 
 ## 规则统计
 
@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shado
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/Game/Game.list
 
-## 重复统计
+## 子规则
 
 当前分流规则，已包含以下子规则：
 
@@ -92,9 +92,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shad
 
 除非特殊需求，否则不建议重复引用。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

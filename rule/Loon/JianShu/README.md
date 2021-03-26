@@ -6,7 +6,7 @@
 
 定时爬取互联网上开源的简书分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-最后检查时间：2021-03-26 14:55:00.083163。
+最后检查时间：2021-03-30 16:40:47.699770。
 
 ## 规则统计
 
@@ -32,14 +32,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon/JianShu/JianShu.list
 
-## 重复统计
+## 子规则
 
 
 当前分流规则，未包含其他子规则。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

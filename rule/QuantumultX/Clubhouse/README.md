@@ -8,7 +8,7 @@
 
 如果的你代理服务器不支持或没有开启 udp-relay，请不要使用本文件。
 
-最后检查时间：2021-03-26 14:54:46.701102。
+最后检查时间：2021-03-30 16:40:37.068250。
 
 ## 规则统计
 
@@ -36,14 +36,11 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/Clubhouse/Clubhouse.list
 
-## 重复统计
+## 子规则
 
 
 当前分流规则，未包含其他子规则。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

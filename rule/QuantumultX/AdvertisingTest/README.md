@@ -8,21 +8,20 @@
 
 测试版的去广告规则，会将所有已知的去广告规则作为数据源，不考虑APP承受能力，不考虑误拦截的问题，也无法处理任何关于误拦截的反馈。
 
-最后检查时间：2021-03-26 16:54:39.145224。
+最后检查时间：2021-03-30 16:40:35.419332。
 
 ## 规则统计
 
-总计规则：84064 条。
+总计规则：84258 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | HOST-KEYWORD | 59 |
-| HOST-SUFFIX | 69367 |
-| HOST | 14391 |
+| HOST-SUFFIX | 69538 |
+| HOST | 14415 |
 | IP-CIDR | 245 |
-| USER-AGENT | 1 |
 | IP6-CIDR | 1 |
 ## 配置说明
 
@@ -39,7 +38,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/QuantumultX/AdvertisingTest/AdvertisingTest.list
 
-## 重复统计
+## 子规则
 
 当前分流规则，已包含以下子规则：
 
@@ -53,9 +52,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 除非特殊需求，否则不建议重复引用。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

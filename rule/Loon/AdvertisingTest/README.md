@@ -10,21 +10,20 @@
 
 去广告测试版分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-03-26 16:54:39.220933。
+最后检查时间：2021-03-30 16:40:43.867230。
 
 ## 规则统计
 
-总计规则：84370 条。
+总计规则：84564 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
 | DOMAIN-KEYWORD | 59 |
-| DOMAIN-SUFFIX | 69367 |
-| DOMAIN | 14391 |
+| DOMAIN-SUFFIX | 69538 |
+| DOMAIN | 14415 |
 | IP-CIDR | 245 |
-| USER-AGENT | 1 |
 | IP-CIDR6 | 1 |
 | URL-REGEX | 306 |
 ## 配置说明
@@ -48,7 +47,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
-## 重复统计
+## 子规则
 
 当前分流规则，已包含以下子规则：
 
@@ -62,9 +61,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Loon
 
 除非特殊需求，否则不建议重复引用。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 

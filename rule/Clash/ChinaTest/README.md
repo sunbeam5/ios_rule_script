@@ -6,17 +6,17 @@
 
 定时爬取互联网上开源的ChinaTest分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-最后检查时间：2021-03-26 14:55:07.713779。
+最后检查时间：2021-03-30 16:40:53.815197。
 
 ## 规则统计
 
-总计规则：71002 条。
+总计规则：70911 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 70857 |
+| DOMAIN-SUFFIX | 70766 |
 | DOMAIN | 75 |
 | IP-CIDR | 56 |
 | DOMAIN-KEYWORD | 10 |
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
-## 重复统计
+## 子规则
 
 当前分流规则，已包含以下子规则：
 
@@ -50,9 +50,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 
 除非特殊需求，否则不建议重复引用。
 
-
-### 特别说明
-程序在实际运算时，会根据DOMAIN、DOMAIN-SUFFIX、IP-CIDR、IP-CIDR6间的包含关系进行去重，而出于运行效率考虑，重复规则只统计纯文本匹配，所以可能与实际效果有所出入，仅供参考。
 
 ## 数据来源
 
