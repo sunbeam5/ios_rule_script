@@ -8,7 +8,7 @@
 
 本分流规则，需要搭配 https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu 使用。
 
-最后检查时间：2021-03-30 16:40:43.157563。
+最后检查时间：2021-03-31 02:28:10.710937。
 
 ## 规则统计
 

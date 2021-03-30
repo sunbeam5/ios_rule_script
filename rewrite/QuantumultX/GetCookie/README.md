@@ -9,16 +9,16 @@
 含有我自己所有签到脚本的GetCookie复写。
 
 
-最后检查时间：2021-03-30 16:41:13。
+最后检查时间：2021-03-31 02:28:44。
 
 ## 复写统计
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| mitm | 19 |
+| mitm | 16 |
 | script-request-header | 10 |
 | script-response-body | 2 |
-| script-request-body | 6 |
+| script-request-body | 4 |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Q
 
 本项目的获取签到脚本Cookie复写规则的数据来自以下链接，通常已涵盖所有数据来源的复写规则。如果你正在使用这些复写规则，建议不要与本项目的获取签到脚本Cookie复写规则混合使用，以免造成规则重复。
 
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_checkin.sgmodule
+- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/10010/unicom_signin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didachuxing/didachuxing_plus.lnscript
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/didichuxing/didi_checkin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/dingdong/dingdong_checkin.sgmodule
@@ -58,7 +58,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rewrite/Q
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/meituan/maicai_checkin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/smzdm/smzdm_signin.sgmodule
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/tieba/tieba_checkin.sgmodule
-- https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/wanda/wanda_checkin.lnscript
 
 
 感谢以上复写规则作者的辛勤付出（排名不分先后）。
