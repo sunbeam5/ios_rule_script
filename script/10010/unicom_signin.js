@@ -747,7 +747,8 @@ async function StartDailyLotteryNewVersion(cookie, encryptMobile, cityCode, lott
         let AppSigninPromise = magicJS.retry(AppSignin, 10, 100)(cookie);
         let [, [signinResult, siginiResultStr, prizeCount, growthV, flowerCount] = [false, "签到异常", null, null, null]] = await magicJS.attempt(AppSigninPromise);
         if (signinResult === true) {
-          let [, doublePrizeCount] = await magicJS.attempt(magicJS.retry(DoubleAdPlaying, 5, 200)(cookie, mobile));
+          // let [, doublePrizeCount] = await magicJS.attempt(magicJS.retry(DoubleAdPlaying, 5, 200)(cookie, mobile));
+          let doublePrizeCount = null;
           notifySubTtile = siginiResultStr;
           if (doublePrizeCount) prizeCount += doublePrizeCount;
           if (prizeCount) notifyContent += `积分+${prizeCount} `;
@@ -778,32 +779,32 @@ async function StartDailyLotteryNewVersion(cookie, encryptMobile, cityCode, lott
         }
 
         // 完成签到任务，领取日流量包
-        if (signinResult === true) {
-          await magicJS
-            .retry(
-              FinishVideo,
-              10,
-              500
-            )(cookie, mobile)
-            .catch((err) => magicJS.logError(`完成观看视频任务失败，异常信息：${err}`));
-          await magicJS
-            .retry(
-              GetSigninTasks,
-              10,
-              500
-            )(cookie, mobile)
-            .catch((err) => magicJS.logError(`获取签到任务失败，异常信息：${err}`));
-          await magicJS
-            .retry(
-              GetSigninTaskPirze,
-              10,
-              500
-            )(cookie, mobile)
-            .then((getPrizeStr) => {
-                notifyContent += notifyContent ? `\n${getPrizeStr}` : getPrizeStr;
-            })
-            .catch((err) => magicJS.logError(`领取任务奖励失败，异常信息：${err}`));
-        }
+        // if (signinResult === true) {
+        //   await magicJS
+        //     .retry(
+        //       FinishVideo,
+        //       10,
+        //       500
+        //     )(cookie, mobile)
+        //     .catch((err) => magicJS.logError(`完成观看视频任务失败，异常信息：${err}`));
+        //   await magicJS
+        //     .retry(
+        //       GetSigninTasks,
+        //       10,
+        //       500
+        //     )(cookie, mobile)
+        //     .catch((err) => magicJS.logError(`获取签到任务失败，异常信息：${err}`));
+        //   await magicJS
+        //     .retry(
+        //       GetSigninTaskPirze,
+        //       10,
+        //       500
+        //     )(cookie, mobile)
+        //     .then((getPrizeStr) => {
+        //         notifyContent += notifyContent ? `\n${getPrizeStr}` : getPrizeStr;
+        //     })
+        //     .catch((err) => magicJS.logError(`领取任务奖励失败，异常信息：${err}`));
+        // }
 
         // 旧版抽奖
         let [errLottery, [lotteryCount, lotteryResult] = []] = await magicJS.attempt(StartDailyLottery(cookie, encryptMobile));
