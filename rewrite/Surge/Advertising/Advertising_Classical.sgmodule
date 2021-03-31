@@ -1,8 +1,8 @@
 #!name=复写去广告
-#!desc=最后更新时间 2021-03-31 02:28:44
+#!desc=最后更新时间 2021-04-01 16:18:23
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
-#!rewrite=758
+#!rewrite=759
 #!script=0
 #!force_http_engine_hosts=5
 #!mitm=576
@@ -472,6 +472,7 @@ force-http-engine-hosts = %APPEND% *.ott.cibntv.net,119.18.193.135,122.14.246.33
 ^https?:\/\/img\.ddrk\.me\/cover\.png - reject
 ^https?:\/\/img\.ihytv\.com\/material\/adv\/img\/ - reject
 ^https?:\/\/img\.jiemian\.com\/ads\/ - reject
+^https?:\/\/img\.meituan\.net\/(adunion|display|dpmobile|midas)\/\w+\.(gif|jpg|jpg\.webp)$ - reject
 ^https?:\/\/img\.meituan\.net\/(adunion|display|midas)\/.+?\.(gif|jpg|jpg\.webp)$ - reject
 ^https?:\/\/img\.meituan\.net\/(display|midas)\/.+?\.(gif|jpg) - reject
 ^https?:\/\/img\.meituan\.net\/midas\/ - reject

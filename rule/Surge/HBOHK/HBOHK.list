@@ -1,9 +1,9 @@
 # NAME: HBOHK
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-31 02:27:43
-# DOMAIN-SUFFIX: 14
-# TOTAL: 14
+# UPDATED: 2021-03-31 23:28:44
+# DOMAIN-SUFFIX: 15
+# TOTAL: 15
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
 DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
@@ -18,3 +18,4 @@ DOMAIN-SUFFIX,now-ashare.com
 DOMAIN-SUFFIX,now-tv.com
 DOMAIN-SUFFIX,now.com.hk
 DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
