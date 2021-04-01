@@ -1,15 +1,15 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-31 23:28:47
+# UPDATED: 2021-04-02 00:12:22
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15326
-# DOMAIN: 15179
+# DOMAIN: 15184
 # IP-CIDR: 192
 # IP-CIDR6: 1
 # URL-REGEX: 299
-# TOTAL: 31026
+# TOTAL: 31031
 0.up.qingdaonews.com
 00-gov.cn
 0024aadd.com
@@ -2039,6 +2039,7 @@ ap.ksrong.com
 ape78cn2.com
 apendit.com
 apester.com
+apex-ad.com
 apexcdn.com
 apexstats.com
 apextag.com
@@ -2993,6 +2994,7 @@ browserpusher.com
 browserr.top
 browsers.support
 browsiprod.com
+brqvld0p.com
 brsrvr.com
 brtsumthree.com
 bs.csshq.com.cn
@@ -4048,6 +4050,7 @@ csaimall.com
 csdata1.com
 csfkhqzegycmux.com
 csiasvapqrccq.com
+css.asitend.com
 cssrvsync.com
 cstmedia.com.cn
 cswilliamsburg.com
@@ -9253,6 +9256,7 @@ nmywwgnnkmud.com
 noadblock.net
 noadblock.org
 noaptauw.com
+noble55.com
 noblemagnition.com
 noblock.pro
 nobodyspeakstruth.narod.ru
@@ -14991,6 +14995,7 @@ yuppads.com
 yuqi7.top
 yurivideo.com
 yurvyhtp.com
+yuu360.com
 yvmads.com
 yvoria.com
 yvussztn.com

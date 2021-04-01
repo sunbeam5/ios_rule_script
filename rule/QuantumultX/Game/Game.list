@@ -1,11 +1,16 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-01 16:18:09
+# UPDATED: 2021-04-02 00:12:21
 # HOST-SUFFIX: 484
 # IP-CIDR: 45
 # HOST-KEYWORD: 4
-# TOTAL: 533
+# HOST: 4
+# TOTAL: 537
+HOST,img-prod-cms-rt-microsoft-com.akamaized.net,Game
+HOST,login.live.com,Game
+HOST,logincdn.msauth.net,Game
+HOST,store-images.s-microsoft.com,Game
 HOST-SUFFIX,100classicbooks.com,Game
 HOST-SUFFIX,ac-pocketcamp.com,Game
 HOST-SUFFIX,amiibo.com,Game

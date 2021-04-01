@@ -2,38 +2,47 @@
 
 ## 前言
 
-本项目的隐私保护分流规则由爬虫程序自动维护。
+本项目的隐私保护分流规则由程序自动维护。
 
 定时爬取互联网上开源的隐私保护分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-最后检查时间：2021-03-31 23:28:56。
+
 
 ## 规则统计
 
-总计规则：3047 条。
+总计规则：3159 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-SUFFIX | 3026 |
+| DOMAIN-SUFFIX | 3135 |
 | DOMAIN | 21 |
+| DOMAIN-KEYWORD | 3 |
 ## 配置说明
 
-实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
+实时版：程序定时更新，更新频率高，能尽快同步数据源变化
 
 稳定版：不定时手动更新，更新频率低，稳定性好
 
 ### Surge 
 实时版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy.list
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Privacy/Privacy_Domain.list
 
 稳定版：
 
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Privacy/Domain.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Privacy/Privacy.list
+
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Surge/Privacy/Privacy_Domain.list
+
+如果稳定版无法访问 ，可能是尚未从实时版的分支合并，建议您先使用实时版，或等待下次稳定版分支合并。
 
 ### 特别说明
+
+Privacy.list请使用RULE-SET。
 
 Privacy_Domain.list请使用DOMAIN-SET。
 
@@ -48,6 +57,7 @@ Privacy_Domain.list请使用DOMAIN-SET。
 本项目的隐私保护分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的隐私保护分流规则混合使用，以免造成规则重复。
 
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
 
 
@@ -107,7 +117,7 @@ Privacy_Domain.list请使用DOMAIN-SET。
 
 ### 其他问题
 
-爬虫开发的初衷是为满足自己几方面需求：
+程序开发的初衷是为满足自己几方面需求：
 
 1. 去除混用多个去广告规则造成的重复
 2. 去除多个去广告规则中某些规则

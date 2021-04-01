@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-31 23:28:45
+# UPDATED: 2021-04-02 00:12:20
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15326
-# HOST: 15179
+# HOST: 15184
 # IP-CIDR: 192
 # IP6-CIDR: 1
-# TOTAL: 30727
+# TOTAL: 30732
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -2037,6 +2037,7 @@ HOST,ap.ksrong.com,AdvertisingLite
 HOST,ape78cn2.com,AdvertisingLite
 HOST,apendit.com,AdvertisingLite
 HOST,apester.com,AdvertisingLite
+HOST,apex-ad.com,AdvertisingLite
 HOST,apexcdn.com,AdvertisingLite
 HOST,apexstats.com,AdvertisingLite
 HOST,apextag.com,AdvertisingLite
@@ -2991,6 +2992,7 @@ HOST,browserpusher.com,AdvertisingLite
 HOST,browserr.top,AdvertisingLite
 HOST,browsers.support,AdvertisingLite
 HOST,browsiprod.com,AdvertisingLite
+HOST,brqvld0p.com,AdvertisingLite
 HOST,brsrvr.com,AdvertisingLite
 HOST,brtsumthree.com,AdvertisingLite
 HOST,bs.csshq.com.cn,AdvertisingLite
@@ -4046,6 +4048,7 @@ HOST,csaimall.com,AdvertisingLite
 HOST,csdata1.com,AdvertisingLite
 HOST,csfkhqzegycmux.com,AdvertisingLite
 HOST,csiasvapqrccq.com,AdvertisingLite
+HOST,css.asitend.com,AdvertisingLite
 HOST,cssrvsync.com,AdvertisingLite
 HOST,cstmedia.com.cn,AdvertisingLite
 HOST,cswilliamsburg.com,AdvertisingLite
@@ -9251,6 +9254,7 @@ HOST,nmywwgnnkmud.com,AdvertisingLite
 HOST,noadblock.net,AdvertisingLite
 HOST,noadblock.org,AdvertisingLite
 HOST,noaptauw.com,AdvertisingLite
+HOST,noble55.com,AdvertisingLite
 HOST,noblemagnition.com,AdvertisingLite
 HOST,noblock.pro,AdvertisingLite
 HOST,nobodyspeakstruth.narod.ru,AdvertisingLite
@@ -14989,6 +14993,7 @@ HOST,yuppads.com,AdvertisingLite
 HOST,yuqi7.top,AdvertisingLite
 HOST,yurivideo.com,AdvertisingLite
 HOST,yurvyhtp.com,AdvertisingLite
+HOST,yuu360.com,AdvertisingLite
 HOST,yvmads.com,AdvertisingLite
 HOST,yvoria.com,AdvertisingLite
 HOST,yvussztn.com,AdvertisingLite

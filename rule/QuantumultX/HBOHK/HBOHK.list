@@ -1,9 +1,10 @@
 # NAME: HBOHK
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-31 23:28:46
+# UPDATED: 2021-04-02 00:12:21
 # HOST-SUFFIX: 15
-# TOTAL: 15
+# USER-AGENT: 1
+# TOTAL: 16
 HOST-SUFFIX,hboasia.com,HBOHK
 HOST-SUFFIX,hboasia1-i.akamaihd.net,HBOHK
 HOST-SUFFIX,hboasia2-i.akamaihd.net,HBOHK
@@ -19,3 +20,4 @@ HOST-SUFFIX,now-tv.com,HBOHK
 HOST-SUFFIX,now.com.hk,HBOHK
 HOST-SUFFIX,nowe.com,HBOHK
 HOST-SUFFIX,nowe.hk,HBOHK
+USER-AGENT,HBO%20GO%20PROD%20HKG*,HBOHK

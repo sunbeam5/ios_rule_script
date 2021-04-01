@@ -2,7 +2,7 @@
 
 ## 前言
 
-本项目的去广告测试版分流规则由爬虫程序自动维护。
+本项目的去广告测试版分流规则由程序自动维护。
 
 定时爬取互联网上开源的去广告测试版分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
@@ -10,25 +10,25 @@
 
 去广告测试版分流规则中含有URL-REGEX类型，此类的规则对于HTTPS请求需要MITM使用才能生效。程序已默认根据正则推导一份MITM的模块/复写/插件在当前分流规则的目录中，便于参考搭配使用。
 
-最后检查时间：2021-04-01 16:18:11。
+
 
 ## 规则统计
 
-总计规则：81196 条。
+总计规则：81308 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-KEYWORD | 59 |
-| DOMAIN-SUFFIX | 64113 |
-| DOMAIN | 16473 |
+| DOMAIN-KEYWORD | 62 |
+| DOMAIN-SUFFIX | 64220 |
+| DOMAIN | 16475 |
 | IP-CIDR | 245 |
 | IP-CIDR6 | 1 |
 | URL-REGEX | 305 |
 ## 配置说明
 
-实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
+实时版：程序定时更新，更新频率高，能尽快同步数据源变化
 
 稳定版：不定时手动更新，更新频率低，稳定性好
 
@@ -79,6 +79,7 @@ AdvertisingTest_Domain.list请使用DOMAIN-SET。
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Advertising.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list
@@ -162,7 +163,7 @@ AdvertisingTest_Domain.list请使用DOMAIN-SET。
 
 本项目的去广告测试版规则仅是将网络上开源的去广告规则整合去重，**非实际规则维护者**。数据源规则无法去除的广告，本项目的去广告测试版规则也无能为力。
 
-所以很抱歉，没办法处理关于某个APP无法去除广告的反馈，除非您能明确数据源的规则可以去除，而整合后的规则无法去除。同样，也没办法协助您处理去广告测试版规则误拦截的问题，除非您能明确告知哪条规则存在问题，我会将其加入规则黑名单，下次爬虫程序更新时将其去除。
+所以很抱歉，没办法处理关于某个APP无法去除广告的反馈，除非您能明确数据源的规则可以去除，而整合后的规则无法去除。同样，也没办法协助您处理去广告测试版规则误拦截的问题，除非您能明确告知哪条规则存在问题，我会将其加入规则黑名单，下次程序更新时将其去除。
 
 ### 特定APP去广告
 
@@ -198,7 +199,7 @@ AdvertisingTest_Domain.list请使用DOMAIN-SET。
 
 ### 其他问题
 
-爬虫开发的初衷是为满足自己几方面需求：
+程序开发的初衷是为满足自己几方面需求：
 
 1. 去除混用多个去广告规则造成的重复
 2. 去除多个去广告规则中某些规则

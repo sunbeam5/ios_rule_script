@@ -2,25 +2,25 @@
 
 ## 前言
 
-本项目的TIDAL分流规则由爬虫程序自动维护。
+本项目的TIDAL分流规则由程序自动维护。
 
 定时爬取互联网上开源的TIDAL分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
-最后检查时间：2021-03-31 23:29:15。
+
 
 ## 规则统计
 
-总计规则：5 条。
+总计规则：6 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| USER-AGENT | 1 |
+| USER-AGENT | 2 |
 | HOST-SUFFIX | 4 |
 ## 配置说明
 
-实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
+实时版：程序定时更新，更新频率高，能尽快同步数据源变化
 
 稳定版：不定时手动更新，更新频率低，稳定性好
 
@@ -43,6 +43,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 本项目的TIDAL分流规则的数据来自以下链接，通常已涵盖所有数据来源的分流规则。如果你正在使用这些分流规则，建议不要与本项目的TIDAL分流规则混合使用，以免造成规则重复。
 
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Music/TIDAL.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global-Services/TIDAL.list
 
 
@@ -102,7 +103,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 ### 其他问题
 
-爬虫开发的初衷是为满足自己几方面需求：
+程序开发的初衷是为满足自己几方面需求：
 
 1. 去除混用多个去广告规则造成的重复
 2. 去除多个去广告规则中某些规则

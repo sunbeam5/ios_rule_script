@@ -1,11 +1,17 @@
 # NAME: Game
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-01 16:18:11
+# UPDATED: 2021-04-02 00:12:28
 # DOMAIN-SUFFIX: 484
 # IP-CIDR: 45
 # DOMAIN-KEYWORD: 4
-# TOTAL: 533
+# DOMAIN: 4
+# PROTOCOL: 1
+# TOTAL: 538
+DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+DOMAIN,login.live.com
+DOMAIN,logincdn.msauth.net
+DOMAIN,store-images.s-microsoft.com
 DOMAIN-SUFFIX,100classicbooks.com
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,amiibo.com
@@ -539,3 +545,4 @@ IP-CIDR,54.207.107.12/32,no-resolve
 IP-CIDR,54.207.168.84/32,no-resolve
 IP-CIDR,54.248.64.192/32,no-resolve
 IP-CIDR,54.94.196.47/32,no-resolve
+PROTOCOL,udp

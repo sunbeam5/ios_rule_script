@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-31 23:28:54
+# UPDATED: 2021-04-02 00:12:28
 # DOMAIN: 43
-# DOMAIN-SUFFIX: 28932
+# DOMAIN-SUFFIX: 28943
 # USER-AGENT: 12
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 29107
+# TOTAL: 29118
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -11365,6 +11365,7 @@ www-cdn.icloud.com.akadns.net
 .hbogo.com
 .hbogoasia.com
 .hbomax.com
+.hbomaxcdn.com
 .hbonow.com
 .hbxnets.com
 .hcaptcha.com
@@ -16353,6 +16354,16 @@ www-cdn.icloud.com.akadns.net
 .netflix
 .netflix.com
 .netflix.net
+.netflixdnstest1.com
+.netflixdnstest10.com
+.netflixdnstest2.com
+.netflixdnstest3.com
+.netflixdnstest4.com
+.netflixdnstest5.com
+.netflixdnstest6.com
+.netflixdnstest7.com
+.netflixdnstest8.com
+.netflixdnstest9.com
 .netflixinvestor.com
 .netflixtechblog.com
 .netlify.com

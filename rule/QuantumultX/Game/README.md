@@ -2,17 +2,17 @@
 
 ## 前言
 
-本项目的游戏分流规则由爬虫程序自动维护。
+本项目的游戏分流规则由程序自动维护。
 
 定时爬取互联网上开源的游戏分流规则，将其进行清洗、去重、合并、优化后，形成单一的分流规则文件，旨在解决引用大量外部规则造成规则重复的问题。
 
 含有Steam、Blizzard、Discord、Rockstar等分流规则
 
-最后检查时间：2021-04-01 16:18:11。
+
 
 ## 规则统计
 
-总计规则：533 条。
+总计规则：537 条。
 
 各类型规则统计：
 
@@ -21,9 +21,10 @@
 | HOST-SUFFIX | 484 |
 | IP-CIDR | 45 |
 | HOST-KEYWORD | 4 |
+| HOST | 4 |
 ## 配置说明
 
-实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
+实时版：程序定时更新，更新频率高，能尽快同步数据源变化
 
 稳定版：不定时手动更新，更新频率低，稳定性好
 
@@ -110,7 +111,12 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Blizzard/Overwatch.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Blizzard/StarCraft-II.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Blizzard/World-of-Warcraft.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Game.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Nintendo.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Steam.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Supercell.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/WildRift.list
+- https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Game/Xbox.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Blizzard.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/EA.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Game/Garena.list
@@ -189,7 +195,7 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Quan
 
 ### 其他问题
 
-爬虫开发的初衷是为满足自己几方面需求：
+程序开发的初衷是为满足自己几方面需求：
 
 1. 去除混用多个去广告规则造成的重复
 2. 去除多个去广告规则中某些规则
