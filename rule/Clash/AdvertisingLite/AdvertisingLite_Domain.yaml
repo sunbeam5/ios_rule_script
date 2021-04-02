@@ -1,13 +1,13 @@
-# NAME: AdvertisingLite
+# NAME: 去广告精简版
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 00:12:25
+# UPDATED: 2021-04-02 20:45:16
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15326
-# DOMAIN: 15184
+# DOMAIN: 15185
 # IP-CIDR: 192
 # IP-CIDR6: 1
-# TOTAL: 30732
+# TOTAL: 30733
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -15190,6 +15190,7 @@ payload:
   - 'zzad.com'
   - 'zzb6.cn'
   - 'zzbb1.top'
+  - 'zzoacwqfw.com'
   - 'zzomiuob.com'
   - 'zzsdtzb.com'
   - 'zzvvzfiwyfq.com'

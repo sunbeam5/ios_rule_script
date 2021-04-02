@@ -1,11 +1,10 @@
-# NAME: Privacy
+# NAME: 隐私保护
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 00:12:22
-# DOMAIN-SUFFIX: 3135
+# UPDATED: 2021-04-02 20:45:13
+# DOMAIN-SUFFIX: 3026
 # DOMAIN: 21
-# DOMAIN-KEYWORD: 3
-# TOTAL: 3159
+# TOTAL: 3047
 api.talkingdata.com
 hm.baidu.com
 hmma.baidu.com
@@ -35,7 +34,6 @@ zgsdk.zhugeio.com
 .1to1.bbva.com
 .2giga.download
 .319dn.dieti-natura.com
-.52pt.site
 .5ijo.01net.com
 .6ddc.tartine-et-chocolat.com
 .6pal.consobaby.com
@@ -204,7 +202,6 @@ zgsdk.zhugeio.com
 .ai.idg.se
 .ai.inmdata.io
 .ai.iol.io
-.aidoru-online.me
 .aiea6gaza.com
 .akatracking.esearchvision.com
 .al.autohome.com.cn
@@ -213,7 +210,6 @@ zgsdk.zhugeio.com
 .alea6badb.com
 .alexandria.marfeelcdn.com
 .alga9frog.com
-.alpharatio.cc
 .als-svc.nytimes.com
 .altavista.ovh
 .amos5lynn.com
@@ -403,10 +399,7 @@ zgsdk.zhugeio.com
 .analyzer2.fc2.com
 .analyzer51.fc2.com
 .analyzer52.fc2.com
-.animebytes.tv
-.animetorrents.me
 .anon-stats.eff.org
-.anthelion.me
 .anti-bot.baidu.com
 .aorta.clickagy.com
 .ape-tagit.timeinc.net
@@ -428,7 +421,6 @@ zgsdk.zhugeio.com
 .as.payback.it
 .as.yomonda.de
 .aserve.directorym.com
-.asiancinema.me
 .astat.nikkei.com
 .asumi.shinobi.jp
 .at.pagesjaunes.fr
@@ -453,10 +445,7 @@ zgsdk.zhugeio.com
 .audit.median.hu
 .audit.pcadvisor.co.uk
 .authcaptcha.com
-.avgv.cc
-.avistaz.to
 .awaps.yandex.net
-.awesome-hd.me
 .awesome.section.io
 .ax.idg.se
 .axislogger.appspot.com
@@ -520,29 +509,24 @@ zgsdk.zhugeio.com
 .beap-bc.yahoo.com
 .behave.noen.at
 .behave.sn.at
-.beitai.pt
 .bemarts.club
 .bench.uc.cn
 .benn8bord.com
 .bento.agoda.com
 .berateveng.ru
 .besti.ga
-.beyond-hd.me
 .bfp.capitalone.com
 .bglog.bitauto.com
 .bhu9.bankia.es
 .bi.medscape.com
-.bibliotik.me
 .bid.g.doubleclick.net
 .bidder.mediams.mb.softbank.jp
 .binarybusiness.de
 .bisko.mall.tv
 .bit.ehow.com
 .bitdash-reporting.appspot.com
-.bittorrent.com
 .bizsolutions.strands.com
 .blip.bizrate.com
-.blutopia.xyz
 .bmcm.pw
 .bmnr.pw
 .bmrg.reflected.net
@@ -559,15 +543,11 @@ zgsdk.zhugeio.com
 .bred4tula.com
 .brie5jiff.com
 .bright.bncnt.com
-.broadcasthe.net
 .browser-updater.yandex.net
-.bt.byr.cn
 .bt.mediaimpact.de
-.bt.neu6.edu.cn
 .btn.clickability.com
 .btrace.qq.com
 .btrace.video.qq.com
-.btschool.club
 .btstats.devtribu.fr
 .buf.lemonde.fr
 .bulb.76.my
@@ -575,7 +555,6 @@ zgsdk.zhugeio.com
 .bux1le001.com
 .bvr.ast.snva.jp
 .bvr.snva.jp
-.bwtorrents.tv
 .bzclk.baidu.com
 .c.bigmir.net
 .c.gazetevatan.com
@@ -611,7 +590,6 @@ zgsdk.zhugeio.com
 .cc.swiftype.com
 .cc.zeit.de
 .ccexperimentsstatic.oracleoutsourcing.com
-.ccfbits.org
 .cct2.o2online.de
 .cdn-analytics.ladmedia.fr
 .cdn.usefathom.com
@@ -628,22 +606,16 @@ zgsdk.zhugeio.com
 .cgicounter.oneandone.co.uk
 .cgicounter.onlinehome.de
 .cgicounter.puretec.de
-.cgpeers.com
 .ch0p.darty.com
 .chanalytics.merchantadvantage.com
 .chanelventure.club
-.chdbits.co
 .ches5sort.com
 .chic9usia.com
 .chip2gift.com
 .chkpt.zdnet.com
-.cinemageddon.net
-.cinematik.net
-.cinemaz.to
 .cl.expedia.com
 .clancy.spiceworks.com
 .clarium.global.ssl.fastly.net
-.classix-unlimited.co.uk
 .clck.yandex.com
 .click.ali213.net
 .click.appinthestore.com
@@ -754,7 +726,6 @@ zgsdk.zhugeio.com
 .compare.liligo.com
 .compteur.developpez.com
 .compteur.websiteout.net
-.concertos.live
 .confiant.msn.com
 .confirm-referer.glrsales.com
 .consent.api.osano.com
@@ -914,10 +885,8 @@ zgsdk.zhugeio.com
 .diagnose.igstatic.com
 .dial4gwyn.com
 .diamond.transfermarkt.de
-.dicmusic.club
 .direct-events-collector.spot.im
 .dirt.dennis.co.uk
-.discfan.net
 .distillery.wistia.com
 .dj.renren.com
 .djibeacon.djns.com
@@ -950,7 +919,6 @@ zgsdk.zhugeio.com
 .dw.cnet.com
 .dwh-tracking.it.auth0.com
 .dwtracking.sdo.com
-.dxdhd.com
 .dxe2.heip.fr
 .ea.auchantelecom.fr
 .ea.aujourdhui.com
@@ -1000,7 +968,6 @@ zgsdk.zhugeio.com
 .ea.vente-unique.lu
 .ea.warnerbros.fr
 .east2pony.com
-.eastgame.org
 .eclick.baidu.com
 .ecomm.events
 .edmi.nextinpact.com
@@ -1015,7 +982,6 @@ zgsdk.zhugeio.com
 .emarketing.rmauctions.com
 .emeu0circ.com
 .emng.libero.it
-.empornium.me
 .encoderfarmstatsnew.servicebus.windows.net
 .encoding.ovh
 .engage-cdn.schibsted.media
@@ -1037,7 +1003,6 @@ zgsdk.zhugeio.com
 .et.nytimes.com
 .et.twyn.com
 .et.unclejeans.com
-.et8.org
 .etacontent.com
 .etui.fs.ml.com
 .etym6cero.com
@@ -1105,11 +1070,9 @@ zgsdk.zhugeio.com
 .evt.izooto.com
 .exd4.destinia.com.au
 .execution-ci360.rai.it
-.exoticaz.to
 .expbl2ro.xbox.com
 .expdb2.msn.com
 .experience.contextly.com
-.extremlymtorrents.ws
 .f-emc.ngsp.gov.vn
 .f.staticlp.com
 .f1tbit.com
@@ -1124,7 +1087,6 @@ zgsdk.zhugeio.com
 .feesocrald.com
 .felitb.rightinthebox.com
 .file3size.com
-.filelist.io
 .filmoljupci.com
 .fimg-resp.seznam.cz
 .firebaselogging-pa.googleapis.com
@@ -1200,7 +1162,6 @@ zgsdk.zhugeio.com
 .gateway.foresee.com
 .gay-hotvideo.net
 .gaza2lote.com
-.gazellegames.net
 .gc.newsweek.com
 .gcpdata.telegraph.co.uk
 .gdm1.toner.fr
@@ -1245,7 +1206,6 @@ zgsdk.zhugeio.com
 .geolocation.forbes.com
 .geoservice.curse.com
 .gets.faz.net
-.gfxpeers.net
 .gift2pair.com
 .gj.mmstat.com
 .gjr5.yoigo.com
@@ -1279,26 +1239,6 @@ zgsdk.zhugeio.com
 .harvester.hbpl.co.uk
 .hazy4cant.com
 .hbx.df-srv.de
-.hd-space.org
-.hd-torrents.org
-.hd4.xyz
-.hd4fans.org
-.hdarea.co
-.hdatmos.club
-.hdbd.us
-.hdbits.org
-.hdchina.org
-.hdcity.city
-.hddolby.com
-.hdfans.org
-.hdhome.org
-.hdpost.top
-.hdroute.org
-.hdsky.me
-.hdstreet.club
-.hdtime.org
-.hdupt.com
-.hdzone.me
 .head3high.com
 .hear8crew.com
 .heartbeat.flickr.com
@@ -1315,8 +1255,6 @@ zgsdk.zhugeio.com
 .hit.meta.ua
 .hit.mybestpro.com
 .hit.skrz.cz
-.hitpt.com
-.hitpt.org
 .hits.antena3.com
 .hits.dealer.com
 .hits.eluniversal.com.mx
@@ -1332,7 +1270,6 @@ zgsdk.zhugeio.com
 .hpr.outbrain.com
 .hrum.hotelsapi.io
 .hspbotdetection.azurewebsites.net
-.hudbt.hust.edu.cn
 .hyrankhit.meldingcloud.com
 .i.compendium.com
 .i.imedia.cz
@@ -1344,7 +1281,6 @@ zgsdk.zhugeio.com
 .ib.adnxs.com
 .ibeat.indiatimes.com
 .ibs.indiatimes.com
-.icetorrent.org
 .iconstab.club
 .icu.getstorybox.com
 .idt.id-news.net
@@ -1381,12 +1317,10 @@ zgsdk.zhugeio.com
 .ip2c.landscape.co.jp
 .ipapi.tmbi.com
 .ipcheck.blogsys.jp
-.iptorrents.com
 .iron0walk.com
 .irqs.ioam.de
 .is.base.de
 .itracking.fccinteractive.com
-.j99.info
 .jac.yahoosandbox.com
 .jaup0lake.com
 .javascriptcounter.appspot.com
@@ -1396,17 +1330,13 @@ zgsdk.zhugeio.com
 .jill.fc.yahoo.com
 .jody0sora.com
 .josh7cuba.com
-.joyhd.net
-.jpopsuki.eu
 .jppolid-track.trackprod.integration.jppol.dk
 .k.keyade.com
 .k.kolplay.com
 .k.rueducommerce.fr
 .k.streamrail.com
 .kalstats.kaltura.com
-.karagarga.in
 .kbn.korben.info
-.keepfrds.com
 .keet1liod.com
 .keyword.daumdn.com
 .kiks.auto.ru
@@ -1437,7 +1367,6 @@ zgsdk.zhugeio.com
 .lciapi.ninthdecimal.com
 .lcs.livedoor.net
 .leadtracking.plumvoice.com
-.leaguehd.com
 .left5lock.com
 .lem.nouvelobs.com
 .leono.club
@@ -1553,14 +1482,11 @@ zgsdk.zhugeio.com
 .lt.tritondigital.com
 .lucid.mjhassoc.com
 .lunametrics.wpengine.netdna-cdn.com
-.lztr.me
-.m-team.cc
 .m.lolvsdota.cn
 .m.trb.com
 .ma.redhat.com
 .ma.register.it
 .mack7oyes.com
-.madsrevolution.net
 .make6pain.com
 .makedosupport.club
 .mali4blat.com
@@ -1660,10 +1586,8 @@ zgsdk.zhugeio.com
 .mms.wwe.com
 .mo.moonpig.com
 .mobileapptracking.com
-.moecat.best
 .mon-com-01.com
 .monitor.ebay.com
-.morethan.tv
 .mormont.gamer-network.net
 .morozhko.club
 .mors22.com
@@ -1672,7 +1596,6 @@ zgsdk.zhugeio.com
 .ms-apps.haaretz.com
 .ms.computerbild.de
 .msg.71.am
-.msg.vg
 .mtag.mman.kr
 .mtc.nhk.or.jp
 .mts-ws.rueducommerce.fr
@@ -1682,16 +1605,12 @@ zgsdk.zhugeio.com
 .mva1.maeva.com
 .mwor.gq
 .mx.technolutions.net
-.myanonamouse.net
 .n.yunshipei.com
 .nanostats.nanopress.it
-.nanyangpt.com
 .navy9gear.com
 .nb.myspace.com
-.ncore.cc
 .nctrk.abmail.com.br
 .ncx2.voyage-prive.it
-.nebulance.io
 .neck6bake.com
 .ned.itv.com
 .neocounter.neoworx-blog-tools.net
@@ -1701,7 +1620,6 @@ zgsdk.zhugeio.com
 .nexioniect.com
 .nexttime.ovh
 .nice3aiea.com
-.nicept.net
 .nil.naver.com
 .ninja.akamaized.net
 .nm.newegg.com
@@ -1713,11 +1631,9 @@ zgsdk.zhugeio.com
 .nora7nice.com
 .norm0care.com
 .nova.dice.net
-.npupt.com
 .nrg.red-by-sfr.fr
 .ns.rvmkitt.com
 .nws.naltis.com
-.nwsuaf6.edu.cn
 .nxakpj4ac8gkd53.info
 .nyctrl32.com
 .o.addthis.com
@@ -1742,20 +1658,16 @@ zgsdk.zhugeio.com
 .omt.shinobi.jp
 .oneid.mmstat.com
 .oops.redditmedia.com
-.open.cd
 .open.delivery.net
 .open.mkt1397.com
 .ophan.theguardian.com
-.oppaiti.me
 .optimize-stats.voxmedia.com
 .orbidder.otto.de
 .origin-tracking.trulia.com
 .origin.chron.com
 .orionis.techradar.com
-.orpheus.network
 .osd.oxygem.it
 .otto5loki.com
-.ourbits.club
 .ours3care.com
 .outal.origo.hu
 .oxifwsabgd.nzz.ch
@@ -1782,7 +1694,6 @@ zgsdk.zhugeio.com
 .partners.badongo.com
 .partners.mysavings.com
 .pass.1688.com
-.passthepopcorn.me
 .path5wall.com
 .pb.i.sogou.com
 .pb.m.naver.com
@@ -1892,7 +1803,6 @@ zgsdk.zhugeio.com
 .po.ponant.com
 .polobook.club
 .poor5zero.com
-.pornbits.net
 .pos.baidu.com
 .postpixel.vindicosuite.com
 .powercount.jswelt.de
@@ -1904,7 +1814,6 @@ zgsdk.zhugeio.com
 .prd-collector-auth.playbuzz.com
 .presentationtracking.netflix.com
 .prism.pandora.tv
-.privatehd.to
 .proac.nationwide.com
 .proactive.base.de
 .processor.asccommunications.com
@@ -1919,13 +1828,9 @@ zgsdk.zhugeio.com
 .ps.ecosia.org
 .pt.crossmediaservices.com
 .pt.ispot.tv
-.pterclub.com
-.pthome.net
 .ptracker.nurturehq.com
-.ptsbao.club
 .ptsc.shoplocal.com
 .pub.sheknows.com
-.pussytorrents.org
 .pv.hd.sohu.com
 .pv.ltn.com.tw
 .pv.pjtsu.com
@@ -1975,7 +1880,6 @@ zgsdk.zhugeio.com
 .rec.udn.com
 .reco.hardsextube.com
 .recommendation.24.com
-.redacted.ch
 .redd7liod.com
 .redeye.williamhill.com
 .ref.dealerinspire.com
@@ -2079,7 +1983,6 @@ zgsdk.zhugeio.com
 .scribe.twitter.com
 .scribe.wongnai.com
 .scripts.psyma.com
-.sdbits.org
 .sdrive.skoda-auto.com
 .secure-stat.canal-plus.com
 .secure.merchantadvantage.com
@@ -2105,10 +2008,8 @@ zgsdk.zhugeio.com
 .siteinfo.libero.it
 .siteintercept.allegiancetech.com
 .sitelife.ehow.com
-.sjtu.edu.cn
 .ski1.skiset.com
 .skye6oner.com
-.skyey2.com
 .slim2disc.com
 .slipstream.skyscanner.net
 .sls2.loisirsencheres.com
@@ -2120,7 +2021,6 @@ zgsdk.zhugeio.com
 .snta0034.com
 .soma9vols.com
 .somniture.theglobeandmail.com
-.soulvoice.club
 .sour1bare.com
 .sourcepoint-mms.aetv.com
 .sourcepoint-mms.history.com
@@ -2243,7 +2143,6 @@ zgsdk.zhugeio.com
 .speee-ad.akamaized.net
 .spit0stge.com
 .spotlight.accuweather.com
-.springsunday.net
 .srt.pch.com
 .srtb.msn.com
 .ssc.api.bbc.com
@@ -2630,7 +2529,6 @@ zgsdk.zhugeio.com
 .timestrends.indiatimes.com
 .timestrends.timesnow.tv
 .tire1soak.com
-.tjupt.org
 .tk.kargo.com
 .tk.storetail.io
 .tkpi.delta.com
@@ -2656,12 +2554,8 @@ zgsdk.zhugeio.com
 .top.skyzone.ro
 .top.wn.com
 .torimochi.line-apps.com
-.torrentday.com
-.torrentleech.org
-.torrentseeds.org
 .toru0vane.com
 .toruk.tanx.com
-.totheglory.im
 .tp.deawm.com
 .tp.ranker.com
 .tpa7.iahorro.com
@@ -2957,7 +2851,6 @@ zgsdk.zhugeio.com
 .trk.sele.co
 .trk.techtarget.com
 .trk.vindicosuite.com
-.trontv.com
 .trowel.twitch.tv
 .tru.webelapp.com
 .trueffect.underarmour.com
@@ -2990,7 +2883,6 @@ zgsdk.zhugeio.com
 .tw.i.hulu.com
 .twch.20min.ch
 .two.tracedock.com
-.u2.dmhy.org
 .u44.pnc.com
 .u45.pnc.com
 .u46.pnc.com
@@ -2998,7 +2890,6 @@ zgsdk.zhugeio.com
 .ua.indianexpress.com
 .ubt.berlingskemedia.net
 .uestat.video.qiyi.com
-.uhdbits.org
 .units.knotch.it
 .up.boston.com
 .up.nytimes.com
@@ -3131,7 +3022,6 @@ zgsdk.zhugeio.com
 .x.disq.us
 .x.weather.com
 .x9.shinobi.jp
-.xauat6.edu.cn
 .xay5o.toscane-boutique.fr
 .xfn6.monaco.edu
 .xr.shinobi.jp

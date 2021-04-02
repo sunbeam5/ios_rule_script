@@ -1,13 +1,13 @@
-# NAME: AdvertisingLite
+# NAME: 去广告精简版
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 00:12:20
+# UPDATED: 2021-04-02 20:45:11
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15326
-# HOST: 15184
+# HOST: 15185
 # IP-CIDR: 192
 # IP6-CIDR: 1
-# TOTAL: 30732
+# TOTAL: 30733
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,0024aadd.com,AdvertisingLite
@@ -15189,6 +15189,7 @@ HOST,zypenetwork.com,AdvertisingLite
 HOST,zzad.com,AdvertisingLite
 HOST,zzb6.cn,AdvertisingLite
 HOST,zzbb1.top,AdvertisingLite
+HOST,zzoacwqfw.com,AdvertisingLite
 HOST,zzomiuob.com,AdvertisingLite
 HOST,zzsdtzb.com,AdvertisingLite
 HOST,zzvvzfiwyfq.com,AdvertisingLite

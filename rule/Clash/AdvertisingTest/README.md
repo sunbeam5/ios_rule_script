@@ -12,15 +12,15 @@
 
 ## 规则统计
 
-总计规则：81003 条。
+总计规则：86995 条。
 
 各类型规则统计：
 
 | 类型 | 数量(条) |
 | ---- | ---- |
-| DOMAIN-KEYWORD | 62 |
-| DOMAIN-SUFFIX | 64220 |
-| DOMAIN | 16475 |
+| DOMAIN-KEYWORD | 59 |
+| DOMAIN-SUFFIX | 72275 |
+| DOMAIN | 14415 |
 | IP-CIDR | 245 |
 | IP-CIDR6 | 1 |
 ## 配置说明
@@ -70,7 +70,6 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Clas
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyListChina.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
-- https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Advertising.list
 - https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Hijacking.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Guard/Advertising.list

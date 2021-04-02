@@ -1,7 +1,7 @@
-# NAME: BOC
+# NAME: 中国银行
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 00:12:20
+# UPDATED: 2021-04-02 20:45:11
 # HOST-SUFFIX: 15
 # TOTAL: 15
 HOST-SUFFIX,bank-of-china.com,BOC
