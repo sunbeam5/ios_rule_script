@@ -1,15 +1,15 @@
 # NAME: 去广告测试版
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 20:45:08
+# UPDATED: 2021-04-03 02:26:25
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 72275
-# DOMAIN: 14415
+# DOMAIN: 14418
 # IP-CIDR: 245
 # IP-CIDR6: 1
 # URL-REGEX: 305
-# TOTAL: 87300
+# TOTAL: 87303
 0.up.qingdaonews.com
 0001.2waky.com
 000lk3v.wcomhost.com
@@ -3671,6 +3671,7 @@ cwhrealestate.com
 cyanskycopiers.com
 cyber-cheat.com
 cyber-shop.net
+cybermagicindia.com
 cybermecca.com
 cybermini.com
 cyberoos.com
@@ -4226,6 +4227,7 @@ downloadtime.org
 downloadtuesday.com
 downloadultimatehacker.com
 downloadupload.com
+downloadwarez.org
 downloadwho.com
 downupfiles.com
 doxysexy.com
@@ -8906,6 +8908,7 @@ myetherwatlet.com
 myetherwayllet.com
 myetherwllet.com
 myethrewallet.com
+myetlherwallet.com
 myettherrwallett.com
 myeverydaylife.net
 myezgear.com

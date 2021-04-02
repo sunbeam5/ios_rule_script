@@ -1,13 +1,13 @@
 # NAME: 去广告测试版
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 20:45:11
+# UPDATED: 2021-04-03 02:26:25
 # HOST-KEYWORD: 59
 # HOST-SUFFIX: 72275
-# HOST: 14415
+# HOST: 14418
 # IP-CIDR: 245
 # IP6-CIDR: 1
-# TOTAL: 86995
+# TOTAL: 86998
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -3669,6 +3669,7 @@ HOST,cwhrealestate.com,AdvertisingTest
 HOST,cyanskycopiers.com,AdvertisingTest
 HOST,cyber-cheat.com,AdvertisingTest
 HOST,cyber-shop.net,AdvertisingTest
+HOST,cybermagicindia.com,AdvertisingTest
 HOST,cybermecca.com,AdvertisingTest
 HOST,cybermini.com,AdvertisingTest
 HOST,cyberoos.com,AdvertisingTest
@@ -4224,6 +4225,7 @@ HOST,downloadtime.org,AdvertisingTest
 HOST,downloadtuesday.com,AdvertisingTest
 HOST,downloadultimatehacker.com,AdvertisingTest
 HOST,downloadupload.com,AdvertisingTest
+HOST,downloadwarez.org,AdvertisingTest
 HOST,downloadwho.com,AdvertisingTest
 HOST,downupfiles.com,AdvertisingTest
 HOST,doxysexy.com,AdvertisingTest
@@ -8904,6 +8906,7 @@ HOST,myetherwatlet.com,AdvertisingTest
 HOST,myetherwayllet.com,AdvertisingTest
 HOST,myetherwllet.com,AdvertisingTest
 HOST,myethrewallet.com,AdvertisingTest
+HOST,myetlherwallet.com,AdvertisingTest
 HOST,myettherrwallett.com,AdvertisingTest
 HOST,myeverydaylife.net,AdvertisingTest
 HOST,myezgear.com,AdvertisingTest

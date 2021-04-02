@@ -1,13 +1,13 @@
 # NAME: 去广告测试版
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-04-02 20:45:16
+# UPDATED: 2021-04-03 02:26:26
 # DOMAIN-KEYWORD: 59
 # DOMAIN-SUFFIX: 72275
-# DOMAIN: 14415
+# DOMAIN: 14418
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 86995
+# TOTAL: 86998
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -3670,6 +3670,7 @@ payload:
   - 'cyanskycopiers.com'
   - 'cyber-cheat.com'
   - 'cyber-shop.net'
+  - 'cybermagicindia.com'
   - 'cybermecca.com'
   - 'cybermini.com'
   - 'cyberoos.com'
@@ -4225,6 +4226,7 @@ payload:
   - 'downloadtuesday.com'
   - 'downloadultimatehacker.com'
   - 'downloadupload.com'
+  - 'downloadwarez.org'
   - 'downloadwho.com'
   - 'downupfiles.com'
   - 'doxysexy.com'
@@ -8905,6 +8907,7 @@ payload:
   - 'myetherwayllet.com'
   - 'myetherwllet.com'
   - 'myethrewallet.com'
+  - 'myetlherwallet.com'
   - 'myettherrwallett.com'
   - 'myeverydaylife.net'
   - 'myezgear.com'
